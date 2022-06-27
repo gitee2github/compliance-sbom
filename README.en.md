@@ -1,36 +1,24 @@
-# compliance-sbom
+# openEuler_SBOM_Standard
 
-#### Description
+#### 介绍
 Development the SBOM stardard of the openEuler communtiy and related documents.
 
-#### Software Architecture
-Software architecture description
 
-#### Installation
+#### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  Read the openEuler_SBOM_Standard.md file
 
 
-#### Gitee Feature
+#### 参与贡献
+1.  Contact openEuler Compliance SIG 
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+#### License & Copyright
+
+openEuler_SBOM_Standard (c) by openEuler Compiance SIG
+
+openEuler_SBOM_Standard is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
